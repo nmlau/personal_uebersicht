@@ -4,12 +4,12 @@
 
 **Links**
 
-* Homepage: http://tracesof.net/uebersicht/
-* List of all Widgets, http://tracesof.net/uebersicht-widgets/
+* [Homepage](http://tracesof.net/uebersicht/)
+* [List of all Widgets](http://tracesof.net/uebersicht-widgets/)
 
 **The ones I have set up**
 
-* Weather Widget, https://goo.gl/tH3Dg9
-* Horizontal Calendar, https://goo.gl/OElhfe
-* Network Throughput, https://goo.gl/NJv6PL
-* Bing Background Image of Day, http://bit.ly/2bc6QRc
+* [Weather Widget](https://github.com/felixhageloh/weather-widget)
+* [Horizontal Calendar](https://github.com/ashikahmad/horizontal-calendar-widget)
+* [Network Throughput](https://github.com/felixhageloh/uebersicht-widgets/tree/master/network-throughput)
+* [Bing Background Image of Day](https://github.com/roach0123/backgroundwidget)
