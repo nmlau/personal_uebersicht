@@ -1,12 +1,15 @@
-Add to:
+**Directory**
 
 /Users/nicholaslau/Library/Application Support/Übersicht/widgets
 
-Homepage: http://tracesof.net/uebersicht/
-List of all Widgets, http://tracesof.net/uebersicht-widgets/
+**Links**
 
-The ones I have set up, links to githubs:
-Weather Widget, https://goo.gl/tH3Dg9
-Horizontal Calendar, https://goo.gl/OElhfe
-Sys Mon Set, https://goo.gl/sOfU4H
-Network Throughput, https://goo.gl/NJv6PL
+* Homepage: http://tracesof.net/uebersicht/
+* List of all Widgets, http://tracesof.net/uebersicht-widgets/
+
+**The ones I have set up**
+
+* Weather Widget, https://goo.gl/tH3Dg9
+* Horizontal Calendar, https://goo.gl/OElhfe
+* Network Throughput, https://goo.gl/NJv6PL
+* Bing Background Image of Day, http://bit.ly/2bc6QRc
